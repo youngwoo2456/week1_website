@@ -1,0 +1,32 @@
+* {
+    margin:0;
+    background-color:grey;
+}
+
+.website {
+    display.flex;
+    flex-direction:colmun;
+    background-color:black;
+    color: whitesmoke;
+}
+.name {
+    padding:20px;
+    text-align:center;
+}
+.gutter {
+    border: 3px solid grey;
+    /*height: 700px;*/
+    margin: 0 100px;
+    display: flex;
+}
+.blog {
+    border: 2px solid grey;
+    height: 100%;
+    width: 70%;
+
+}
+.sidebar {
+    border: 2px solid grey;
+    height: 100%;
+    width: 40%;
+}
